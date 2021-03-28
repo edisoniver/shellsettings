@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/Users/edison/.vim'
+let g:netrw_dirhist_5='/Users/edison/.vim/autoload'
+let g:netrw_dirhist_4='/Users/edison/Documents/uni-doc/FB104/Week1/IFB104-Lecture01-Demos'
+let g:netrw_dirhist_3='/Users/edison/Documents/uni-doc/FB104/Week1'
+let g:netrw_dirhist_2='/Users/edison/Documents/uni-doc/FB104'
+let g:netrw_dirhist_1='/Users/edison/Documents/uni-doc'
