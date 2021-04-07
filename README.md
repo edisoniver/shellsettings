@@ -24,6 +24,10 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 
 Install ZSH 
 
+sudo apt install zsh
+
+Then Oh-my-Zsh
+
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 
